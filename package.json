@@ -1,0 +1,25 @@
+{
+  "name": "netflix-test-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlgamez/netflix-test-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlgamez/netflix-test-automation/issues"
+  },
+  "homepage": "https://github.com/jlgamez/netflix-test-automation#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@testing-library/cypress": "^7.0.3",
+    "cypress": "^6.2.0"
+  }
+}
